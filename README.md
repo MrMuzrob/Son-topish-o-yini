@@ -1,4 +1,4 @@
-# Son-topish-o-yini
+# Son topish o'yini
 O'yin quyidagicha o'ynaladi:
 - Kompyuter son o'ylaydi siz topsiz;
 - Siz son o'ylaysiz kompyuter topadi;
